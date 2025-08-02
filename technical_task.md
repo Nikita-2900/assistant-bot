@@ -22,3 +22,5 @@
 ### logic.py
 в этом файле будут функции для работы с базой данных
 ### база данных
+## референсы
+<img width="459" height="784" alt="image" src="https://github.com/user-attachments/assets/3449fad4-ad7e-426e-b872-9b919cd136c6" />
